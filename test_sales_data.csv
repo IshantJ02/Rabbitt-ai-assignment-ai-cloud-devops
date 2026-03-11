@@ -1,0 +1,31 @@
+Product,Region,Quarter,Revenue,Units Sold,Profit Margin
+Laptop Pro,North America,Q1 2024,1250000,2500,32%
+Laptop Pro,Europe,Q1 2024,890000,1780,28%
+Laptop Pro,Asia Pacific,Q1 2024,1100000,2200,35%
+Wireless Mouse,North America,Q1 2024,150000,15000,45%
+Wireless Mouse,Europe,Q1 2024,120000,12000,42%
+Wireless Mouse,Asia Pacific,Q1 2024,180000,18000,48%
+Monitor Ultra,North America,Q1 2024,750000,1500,25%
+Monitor Ultra,Europe,Q1 2024,680000,1360,23%
+Monitor Ultra,Asia Pacific,Q1 2024,920000,1840,30%
+Keyboard Elite,North America,Q1 2024,95000,9500,55%
+Keyboard Elite,Europe,Q1 2024,78000,7800,52%
+Keyboard Elite,Asia Pacific,Q1 2024,110000,11000,58%
+Laptop Pro,North America,Q2 2024,1380000,2760,34%
+Laptop Pro,Europe,Q2 2024,920000,1840,29%
+Laptop Pro,Asia Pacific,Q2 2024,1250000,2500,36%
+Wireless Mouse,North America,Q2 2024,165000,16500,46%
+Wireless Mouse,Europe,Q2 2024,130000,13000,43%
+Wireless Mouse,Asia Pacific,Q2 2024,195000,19500,49%
+Monitor Ultra,North America,Q2 2024,820000,1640,27%
+Monitor Ultra,Europe,Q2 2024,710000,1420,24%
+Monitor Ultra,Asia Pacific,Q2 2024,980000,1960,31%
+Keyboard Elite,North America,Q2 2024,105000,10500,56%
+Keyboard Elite,Europe,Q2 2024,85000,8500,53%
+Keyboard Elite,Asia Pacific,Q2 2024,125000,12500,59%
+Laptop Pro,North America,Q3 2024,1450000,2900,35%
+Laptop Pro,Europe,Q3 2024,650000,1300,22%
+Laptop Pro,Asia Pacific,Q3 2024,1350000,2700,37%
+Wireless Mouse,North America,Q3 2024,175000,17500,47%
+Wireless Mouse,Europe,Q3 2024,95000,9500,38%
+Wireless Mouse,Asia Pacific,Q3 2024,210000,21000,50%
