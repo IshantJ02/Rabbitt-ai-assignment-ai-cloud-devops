@@ -34,10 +34,10 @@ limiter = Limiter(key_func=get_remote_address)
 async def lifespan(app: FastAPI):
     """Application lifespan manager – startup / shutdown hooks."""
     # --- startup ---
-    print("🚀 Sales Insight Automator API is starting …")
+    print("Sales Insight Automator API is starting ...")
     yield
     # --- shutdown ---
-    print("🛑 Sales Insight Automator API is shutting down …")
+    print("Sales Insight Automator API is shutting down ...")
 
 
 app = FastAPI(
